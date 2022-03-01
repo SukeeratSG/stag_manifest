@@ -24,7 +24,7 @@
            fetch="https://gitlab.com/StagOS/"  />
  
   <remote  name="stagos-devices"
-           fetch="https://github.com/StagOS-Devices"
+           fetch="ssh://git@github.com/StagOS-Devices"
            revision="refs/heads/s12" />
 
 <!-- Remove the following projects as we are getting them from lineage/stag -->
